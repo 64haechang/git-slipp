@@ -1,1 +1,1 @@
-# git-slipp test
+# git & jsp  study, test
